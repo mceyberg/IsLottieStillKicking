@@ -1,5 +1,5 @@
 {
-  "name": "IsLottieStillKicking",
+  "name": "Is Lottie Still Kicking",
   "description": "",
   "scripts": {
   },
@@ -12,5 +12,5 @@
   ],
   "buildpacks": [
 
-  ]
+  ],
 }
